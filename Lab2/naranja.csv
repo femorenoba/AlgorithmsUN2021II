@@ -1,369 +1,371 @@
-﻿Date;Region;Class;Commodity;Variety;Organic;Environment;Unit;Number of Stores;Weighted Avg Price;Low Price;High Price;% Marked Local
-10/09/2020;NATIONAL;FRUITS;TANGELOS;;;;each;68;.97;;;
-10/09/2020;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;54;.97;.89;1.00;
-10/09/2020;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;14;1.00;1.00;1.00;
-11/20/2020;NATIONAL;FRUITS;TANGELOS;;;;per pound;9;1.99;;;
-11/20/2020;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;9;1.99;1.99;1.99;
-11/27/2020;NATIONAL;FRUITS;TANGELOS;;;;per pound;9;1.99;;;
-11/27/2020;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;9;1.99;1.99;1.99;
-1/01/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;7;.99;;;
-1/01/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;7;.99;.99;.99;
-1/08/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;112;3.57;;;
-1/08/2021;NATIONAL;FRUITS;TANGELOS;;;;each;115;1.08;;;
-1/08/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;242;1.11;;;
-1/08/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;8;3.99;3.99;3.99;
-1/08/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;85;1.21;1.00;1.25;
-1/08/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;5;1.59;1.59;1.59;
-1/08/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;39;3.91;3.49;4.99;
-1/08/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;29;2.98;2.97;2.99;
-1/08/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;30;.69;.69;.69;
-1/08/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;8;.79;.79;.79;
-1/08/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;36;3.59;2.99;3.99;
-1/08/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;22;1.30;.79;1.49;
-1/08/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;101;.68;.50;.69;
-1/08/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;95;1.49;1.48;1.49;
-1/08/2021;ALASKA;FRUITS;TANGELOS;;;;per pound;11;1.49;1.49;1.49;
-01/15/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;307;2.79;;;
-01/15/2021;NATIONAL;FRUITS;TANGELOS;;;;each;399;.89;;;
-01/15/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;967;1.29;;;
-01/15/2021;NATIONAL;FRUITS;TANGELOS;;Y;;per pound;80;1.99;;;
-01/15/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;8;4.99;4.99;4.99;
-01/15/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;141;1.06;.50;1.25;
-01/15/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;Y;;per pound;80;1.99;1.99;1.99;
-01/15/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;5;3.99;3.99;3.99;
-01/15/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;246;.82;.50;1.00;
-01/15/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;198;2.53;2.50;2.99;
-01/15/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;12;.50;.50;.50;
-01/15/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;8;1.49;1.49;1.49;
-01/15/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;96;3.09;2.49;3.49;
-01/15/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;294;1.48;.89;1.49;
-01/15/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;374;.97;.88;.99;
-01/15/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;283;1.50;.89;1.99;
-01/15/2021;ALASKA;FRUITS;TANGELOS;;;;per pound;8;1.47;1.29;1.49;
-01/22/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;255;3.86;;;
-01/22/2021;NATIONAL;FRUITS;TANGELOS;;;;each;552;1.23;;;
-01/22/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;597;1.34;;;
-01/22/2021;NATIONAL;FRUITS;TANGELOS;;Y;;per pound;759;1.93;;;
-01/22/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;199;3.99;3.99;3.99;
-01/22/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;78;1.21;.67;1.25;
-01/22/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;15;1.49;1.49;1.49;
-01/22/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;Y;;per pound;80;1.99;1.99;1.99;
-01/22/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;33;3.16;2.99;3.49;
-01/22/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;463;1.24;.99;1.25;
-01/22/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;23;3.74;3.49;3.99;
-01/22/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;5;1.00;1.00;1.00;
-01/22/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;192;1.58;1.58;1.58;
-01/22/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;6;.98;.98;.98;
-01/22/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;212;1.51;1.49;1.58;
-01/22/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;124;.72;.49;1.99;
-01/22/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;Y;;per pound;658;1.92;.99;1.99;
-01/22/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;54;1.26;.97;1.99;
-01/22/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;Y;;per pound;21;1.99;1.99;1.99;
-01/29/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,74;3.27;;;
-01/29/2021;NATIONAL;FRUITS;TANGELOS;;;;each;409;.90;;;
-01/29/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;621;1.30;;;
-01/29/2021;NATIONAL;FRUITS;TANGELOS;;Y;;each;13;1.00;;;
-01/29/2021;NATIONAL;FRUITS;TANGELOS;;Y;;per pound;59;1.67;;;
-01/29/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;160;3.87;2.99;5.99;
-01/29/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;237;.98;.40;1.00;
-01/29/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;Y;;per pound;40;1.99;1.99;1.99;
-01/29/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;863;3.61;2.49;4.99;
-01/29/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;14;1.00;1.00;1.00;
-01/29/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;202;2.37;1.99;3.49;
-01/29/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;133;.78;.60;1.00;
-01/29/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;41;1.47;1.29;1.69;
-01/29/2021;MIDWEST U.S.;FRUITS;TANGELOS;;Y;;each;13;1.00;1.00;1.00;
-01/29/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;209;2.94;2.77;3.29;
-01/29/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;25;.78;.78;.78;
-01/29/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;350;.99;.89;1.69;
-01/29/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;225;2.77;2.77;2.77;
-01/29/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;168;1.74;.25;3.49;
-01/29/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;81;2.95;2.77;2.99;
-01/29/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;62;1.77;.99;1.99;
-01/29/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;Y;;per pound;19;.99;.99;.99;
-2/05/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,889;3.21;;;
-2/05/2021;NATIONAL;FRUITS;TANGELOS;;;;each;1,274;.87;;;
-2/05/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;754;1.13;;;
-2/05/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;245;4.21;3.99;4.99;
-2/05/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;97;.97;.67;1.00;
-2/05/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;16;1.99;1.99;1.99;
-2/05/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;404;3.01;2.99;3.98;
-2/05/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;396;.99;.99;.99;
-2/05/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;67;.99;.99;.99;
-2/05/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;630;3.02;2.99;3.99;
-2/05/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;670;.77;.67;.99;
-2/05/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;79;1.80;.79;2.99;
-2/05/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;293;3.01;2.99;3.48;
-2/05/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;111;.99;.99;.99;
-2/05/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;196;1.37;.99;1.49;
-2/05/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;225;2.99;2.99;2.99;
-2/05/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;368;.85;.49;.99;
-2/05/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;81;3.78;2.99;3.99;
-2/05/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;17;1.05;.99;1.49;
-2/05/2021;ALASKA;FRUITS;TANGELOS;;;;3 lb bag;11;3.99;3.99;3.99;
-2/05/2021;ALASKA;FRUITS;TANGELOS;;;;per pound;11;1.49;1.49;1.49;
-2/12/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,532;4.00;;;
-2/12/2021;NATIONAL;FRUITS;TANGELOS;;;;each;707;.91;;;
-2/12/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;1,107;1.34;;;
-2/12/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;326;3.96;2.99;4.99;
-2/12/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;345;1.01;.40;1.25;
-2/12/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;77;3.33;1.69;3.49;
-2/12/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;1,179;4.02;3.98;4.99;
-2/12/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;235;.81;.80;1.00;
-2/12/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;31;.98;.98;.98;
-2/12/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;16;3.68;3.50;3.99;
-2/12/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;116;.79;.79;.79;
-2/12/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;192;1.68;1.68;1.68;
-2/12/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;11;3.89;3.89;3.89;
-2/12/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;11;.89;.89;.89;
-2/12/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;464;1.03;.97;1.68;
-2/12/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;185;1.10;.98;1.99;
-2/12/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;158;1.18;.99;1.99;
-02/19/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,327;3.94;;;
-02/19/2021;NATIONAL;FRUITS;TANGELOS;;;;each;674;.87;;;
-02/19/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;321;1.15;;;
-02/19/2021;NATIONAL;FRUITS;TANGELOS;;Y;;each;25;1.00;;;
-02/19/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;270;3.75;2.99;3.99;
-02/19/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;299;.96;.67;1.25;
-02/19/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;.99;.99;.99;
-02/19/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;1,05;3.99;3.99;3.99;
-02/19/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;253;.82;.78;1.00;
-02/19/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;7;3.49;3.49;3.49;
-02/19/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;122;.78;.58;.79;
-02/19/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;177;1.12;.98;1.29;
-02/19/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;Y;;each;25;1.00;1.00;1.00;
-02/19/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;67;.83;.50;1.99;
-02/19/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;67;1.59;.99;1.99;
-02/26/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;153;3.78;;;
-02/26/2021;NATIONAL;FRUITS;TANGELOS;;;;each;308;.97;;;
-02/26/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;528;.87;;;
-02/26/2021;NATIONAL;FRUITS;TANGELOS;;Y;;per pound;6;1.48;;;
-02/26/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;8;3.99;3.99;3.99;
-02/26/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;274;.97;.80;1.00;
-02/26/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;76;3.99;3.98;3.99;
-02/26/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;10;.79;.79;.79;
-02/26/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;42;3.23;2.50;3.99;
-02/26/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;24;1.00;1.00;1.00;
-02/26/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;21;.86;.79;.99;
-02/26/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;27;3.99;3.99;3.99;
-02/26/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;105;1.00;.98;1.29;
-02/26/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;Y;;per pound;6;1.48;1.48;1.48;
-02/26/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;175;.73;.44;1.79;
-02/26/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;227;.92;.88;1.49;
-3/05/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,787;3.87;;;
-3/05/2021;NATIONAL;FRUITS;TANGELOS;;;;each;452;.88;;;
-3/05/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;580;2.00;;;
-3/05/2021;NATIONAL;FRUITS;TANGELOS;;Y;;per pound;19;.98;;;
-3/05/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;497;3.78;3.50;3.99;
-3/05/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;294;.95;.40;1.00;
-3/05/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;76;1.43;.67;1.49;
-3/05/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;1,263;3.91;2.99;3.99;
-3/05/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;15;1.00;1.00;1.00;
-3/05/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;27;3.84;3.49;3.99;
-3/05/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;108;.84;.79;1.00;
-3/05/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;206;1.53;.79;1.58;
-3/05/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;35;.34;.34;.34;
-3/05/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;40;1.58;1.58;1.58;
-3/05/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;103;.83;.77;.88;
-3/05/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;155;3.82;.99;3.99;
-3/05/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;Y;;per pound;19;.98;.98;.98;
-3/12/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;3,542;4.23;;;
-3/12/2021;NATIONAL;FRUITS;TANGELOS;;;;each;465;.89;;;
-3/12/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;77;.81;;;
-3/12/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;418;4.20;3.50;4.99;
-3/12/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;220;.97;.67;1.00;
-3/12/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-3/12/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;1,908;4.35;3.99;5.49;
-3/12/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;245;.82;.80;1.00;
-3/12/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;301;3.99;3.99;3.99;
-3/12/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;4;1.99;1.99;1.99;
-3/12/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;356;4.20;3.99;5.49;
-3/12/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;542;3.99;3.99;3.99;
-3/12/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;63;.63;.50;1.00;
-3/12/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;17;3.99;3.99;3.99;
-03/19/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;270;4.93;;;
-03/19/2021;NATIONAL;FRUITS;TANGELOS;;;;each;606;.88;;;
-03/19/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;354;.96;;;
-03/19/2021;NATIONAL;FRUITS;TANGELOS;;Y;;per pound;212;1.49;;;
-03/19/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;215;4.99;4.99;4.99;
-03/19/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;344;.96;.79;1.00;
-03/19/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;29;4.99;4.99;4.99;
-03/19/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;245;.82;.80;1.00;
-03/19/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;25;1.04;.79;1.99;
-03/19/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;17;.34;.34;.34;
-03/19/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;105;.98;.98;.99;
-03/19/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;Y;;per pound;6;1.49;1.49;1.49;
-03/19/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;219;.94;.77;.99;
-03/19/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;15;3.99;3.99;3.99;
-03/19/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;5;.99;.99;.99;
-03/19/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;Y;;per pound;206;1.49;1.49;1.49;
-03/19/2021;ALASKA;FRUITS;TANGELOS;;;;3 lb bag;11;4.99;4.99;4.99;
-03/26/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;876;5.10;;;
-03/26/2021;NATIONAL;FRUITS;TANGELOS;;;;each;722;.90;;;
-03/26/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;436;1.40;;;
-03/26/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;215;4.87;3.99;4.99;
-03/26/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;221;.98;.80;1.00;
-03/26/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-03/26/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;467;5.48;4.99;5.49;
-03/26/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;244;.82;.80;1.00;
-03/26/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;13;3.99;3.99;3.99;
-03/26/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;250;.91;.75;1.00;
-03/26/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;211;1.63;.79;1.99;
-03/26/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;49;5.49;5.49;5.49;
-03/26/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;7;.69;.69;.69;
-03/26/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;139;1.18;.98;1.68;
-03/26/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;73;1.16;.98;1.79;
-03/26/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;121;3.99;3.99;3.99;
-03/26/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;3;.99;.99;.99;
-03/26/2021;ALASKA;FRUITS;TANGELOS;;;;3 lb bag;11;4.99;4.99;4.99;
-4/02/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;256;4.92;;;
-4/02/2021;NATIONAL;FRUITS;TANGELOS;;;;each;217;.94;;;
-4/02/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;97;1.03;;;
-4/02/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;190;4.99;4.99;4.99;
-4/02/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;190;1.00;1.00;1.00;
-4/02/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;42;4.88;4.88;4.88;
-4/02/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;10;.89;.89;.89;
-4/02/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;31;1.25;1.25;1.25;
-4/02/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;10;4.00;4.00;4.00;
-4/02/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;17;.34;.34;.34;
-4/02/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;57;.86;.33;.97;
-4/02/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;9;1.39;1.39;1.39;
-4/02/2021;ALASKA;FRUITS;TANGELOS;;;;3 lb bag;14;4.77;3.98;4.99;
-4/09/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,977;3.87;;;
-4/09/2021;NATIONAL;FRUITS;TANGELOS;;;;each;90;.84;;;
-4/09/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;503;1.18;;;
-4/09/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;21;3.99;3.99;3.99;
-4/09/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;10;1.25;1.25;1.25;
-4/09/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;404;4.07;3.99;4.99;
-4/09/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;31;1.00;1.00;1.00;
-4/09/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;589;3.99;3.99;3.99;
-4/09/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;80;.79;.79;.79;
-4/09/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;14;.69;.69;.69;
-4/09/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;283;3.91;2.99;3.99;
-4/09/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;344;1.29;.99;1.31;
-4/09/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;542;3.57;2.99;3.99;
-4/09/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;90;.93;.88;.99;
-4/09/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;138;3.88;2.99;3.99;
-4/09/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;24;.95;.69;1.29;
-04/16/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;2,45;4.38;;;
-04/16/2021;NATIONAL;FRUITS;TANGELOS;;;;each;25;.39;;;
-04/16/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;84;1.27;;;
-04/16/2021;NATIONAL;FRUITS;TANGELOS;;Y;;per pound;6;1.48;;;
-04/16/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;1,6;4.70;3.99;4.99;
-04/16/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;8;.50;.50;.50;
-04/16/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;194;3.33;2.99;3.99;
-04/16/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;415;3.86;3.49;3.99;
-04/16/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;17;.34;.34;.34;
-04/16/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;40;1.77;1.77;1.77;
-04/16/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;Y;;per pound;6;1.48;1.48;1.48;
-04/16/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;225;3.99;3.99;3.99;
-04/16/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;43;.79;.20;.89;
-04/16/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;2;3.99;3.99;3.99;
-04/16/2021;ALASKA;FRUITS;TANGELOS;;;;3 lb bag;14;3.88;3.48;3.99;
-04/16/2021;ALASKA;FRUITS;TANGELOS;;;;per pound;1;1.49;1.49;1.49;
-04/23/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,919;3.38;;;
-04/23/2021;NATIONAL;FRUITS;TANGELOS;;;;each;13;1.25;;;
-04/23/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;110;1.25;;;
-04/23/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;13;1.25;1.25;1.25;
-04/23/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;473;3.01;2.99;3.98;
-04/23/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;815;3.78;2.99;3.99;
-04/23/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;8;1.00;1.00;1.00;
-04/23/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;3 lb bag;389;3.24;2.99;4.99;
-04/23/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;94;1.29;1.29;1.29;
-04/23/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;225;2.99;2.99;2.99;
-04/23/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;17;2.99;2.99;2.99;
-04/23/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;8;.98;.98;.98;
-04/30/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;1,201;4.94;;;
-04/30/2021;NATIONAL;FRUITS;TANGELOS;;;;each;12;.50;;;
-04/30/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;5;.99;;;
-04/30/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;8;3.99;3.99;3.99;
-04/30/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;1,135;4.99;4.99;4.99;
-04/30/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;5;.99;.99;.99;
-04/30/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;3 lb bag;58;3.99;3.99;3.99;
-04/30/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;12;.50;.50;.50;
-5/07/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;1;1.59;;;
-5/07/2021;ALASKA;FRUITS;TANGELOS;;;;per pound;1;1.59;1.59;1.59;
-05/14/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;12;.99;;;
-05/14/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;12;.99;.99;.99;
-07/16/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;5;1.19;;;
-07/16/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;5;1.19;1.19;1.19;
-07/23/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;331;.78;;;
-07/23/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;6;1.49;1.49;1.49;
-07/23/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;325;.77;.77;.77;
-07/30/2021;NATIONAL;FRUITS;TANGELOS;;;;each;24;1.50;;;
-07/30/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;57;.67;;;
-07/30/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;24;1.50;1.50;1.50;
-07/30/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-07/30/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;47;.50;.50;.50;
-8/06/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;94;1.04;;;
-8/06/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-8/06/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;12;.99;.99;.99;
-8/06/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;72;.99;.99;.99;
-08/13/2021;NATIONAL;FRUITS;TANGELOS;;;;each;6;.75;;;
-08/13/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;1,193;1.28;;;
-08/13/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;6;.75;.75;.75;
-08/13/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-08/13/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;1,135;1.29;1.29;1.29;
-08/13/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;45;.99;.99;.99;
-08/13/2021;ALASKA;FRUITS;TANGELOS;;;;per pound;3;1.98;1.98;1.98;
-08/20/2021;NATIONAL;FRUITS;TANGELOS;;;;each;33;.86;;;
-08/20/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;1,201;1.52;;;
-08/20/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;33;.86;.50;1.00;
-08/20/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;.99;.99;.99;
-08/20/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;1,135;1.49;1.49;1.49;
-08/20/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;13;.88;.88;.88;
-08/20/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;15;2.69;2.69;2.69;
-08/20/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;28;2.69;2.69;2.69;
-08/27/2021;NATIONAL;FRUITS;TANGELOS;;;;each;55;.82;;;
-08/27/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;88;1.06;;;
-08/27/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;55;.82;.50;1.00;
-08/27/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;41;1.14;.99;1.49;
-08/27/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;36;.99;.99;.99;
-08/27/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;11;.96;.88;1.19;
-9/03/2021;NATIONAL;FRUITS;TANGELOS;;;;each;102;.97;;;
-9/03/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;61;2.55;;;
-9/03/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;51;.94;.50;1.25;
-9/03/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-9/03/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;2;1.00;1.00;1.00;
-9/03/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;each;49;1.00;1.00;1.00;
-9/03/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;23;2.72;2.59;2.79;
-9/03/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;28;2.79;2.79;2.79;
-9/10/2021;NATIONAL;FRUITS;TANGELOS;;;;each;121;.92;;;
-9/10/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;223;1.06;;;
-9/10/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;94;.89;.50;1.00;
-9/10/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-9/10/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;14;1.00;1.00;1.00;
-9/10/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;13;1.00;1.00;1.00;
-9/10/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;23;.99;.99;.99;
-9/10/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;19;1.50;1.50;1.50;
-9/10/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;171;.99;.99;.99;
-09/17/2021;NATIONAL;FRUITS;TANGELOS;;;;3 lb bag;24;2.99;;;
-09/17/2021;NATIONAL;FRUITS;TANGELOS;;;;each;24;.50;;;
-09/17/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;225;1.24;;;
-09/17/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;3 lb bag;24;2.99;2.99;2.99;
-09/17/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;15;.60;.50;.75;
-09/17/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-09/17/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;each;9;.33;.33;.33;
-09/17/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;58;.93;.68;.99;
-09/17/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;99;1.48;1.48;1.48;
-09/17/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;58;1.09;.79;2.99;
-09/24/2021;NATIONAL;FRUITS;TANGELOS;;;;each;41;1.39;;;
-09/24/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;739;1.57;;;
-09/24/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;41;1.39;1.00;2.00;
-09/24/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-09/24/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;19;1.49;1.49;1.49;
-09/24/2021;SOUTH CENTRAL U.S.;FRUITS;TANGELOS;;;;per pound;372;1.49;1.47;1.49;
-09/24/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;274;1.49;1.49;1.49;
-09/24/2021;NORTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;64;2.49;2.49;2.49;
-10/01/2021;NATIONAL;FRUITS;TANGELOS;;;;each;48;.69;;;
-10/01/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;10;1.49;;;
-10/01/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;6;.67;.67;.67;
-10/01/2021;SOUTHEAST U.S.;FRUITS;TANGELOS;;;;each;42;.69;.69;.69;
-10/01/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;10;1.49;1.49;1.49;
-10/08/2021;NATIONAL;FRUITS;TANGELOS;;;;each;25;1.00;;;
-10/08/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;26;.99;;;
-10/08/2021;NORTHEAST U.S.;FRUITS;TANGELOS;;;;each;25;1.00;1.00;1.00;
-10/08/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;22;.99;.99;.99;
-10/08/2021;SOUTHWEST U.S.;FRUITS;TANGELOS;;;;per pound;4;.99;.99;.99;
-10/15/2021;NATIONAL;FRUITS;TANGELOS;;;;per pound;15;.99;;;
-10/15/2021;MIDWEST U.S.;FRUITS;TANGELOS;;;;per pound;15;.99;.99;.99;
+
+Date           Region              Class          Commodity      Variety        Organic        Environment    Unit           Number of Stores  Weighted Avg Price  Low Price      High Price     % Marked Local  
+10/09/2020     NATIONAL            FRUITS         TANGELOS                                                    each           68                .97                                                               
+10/09/2020     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           54                .97                 .89            1.00                           
+10/09/2020     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           14                1.00                1.00           1.00                           
+11/20/2020     NATIONAL            FRUITS         TANGELOS                                                    per pound      9                 1.99                                                              
+11/20/2020     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      9                 1.99                1.99           1.99                           
+11/27/2020     NATIONAL            FRUITS         TANGELOS                                                    per pound      9                 1.99                                                              
+11/27/2020     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      9                 1.99                1.99           1.99                           
+01/01/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      7                 .99                                                               
+01/01/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      7                 .99                 .99            .99                            
+01/08/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       112               3.57                                                              
+01/08/2021     NATIONAL            FRUITS         TANGELOS                                                    each           115               1.08                                                              
+01/08/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      242               1.11                                                              
+01/08/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       8                 3.99                3.99           3.99                           
+01/08/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           85                1.21                1.00           1.25                           
+01/08/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      5                 1.59                1.59           1.59                           
+01/08/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       39                3.91                3.49           4.99                           
+01/08/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       29                2.98                2.97           2.99                           
+01/08/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           30                .69                 .69            .69                            
+01/08/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      8                 .79                 .79            .79                            
+01/08/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       36                3.59                2.99           3.99                           
+01/08/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      22                1.30                .79            1.49                           
+01/08/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      101               .68                 .50            .69                            
+01/08/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      95                1.49                1.48           1.49                           
+01/08/2021     ALASKA              FRUITS         TANGELOS                                                    per pound      11                1.49                1.49           1.49                           
+01/15/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       307               2.79                                                              
+01/15/2021     NATIONAL            FRUITS         TANGELOS                                                    each           399               .89                                                               
+01/15/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      967               1.29                                                              
+01/15/2021     NATIONAL            FRUITS         TANGELOS                      Y                             per pound      80                1.99                                                              
+01/15/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       8                 4.99                4.99           4.99                           
+01/15/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           141               1.06                .50            1.25                           
+01/15/2021     NORTHEAST U.S.      FRUITS         TANGELOS                      Y                             per pound      80                1.99                1.99           1.99                           
+01/15/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       5                 3.99                3.99           3.99                           
+01/15/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           246               .82                 .50            1.00                           
+01/15/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       198               2.53                2.50           2.99                           
+01/15/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           12                .50                 .50            .50                            
+01/15/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      8                 1.49                1.49           1.49                           
+01/15/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       96                3.09                2.49           3.49                           
+01/15/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      294               1.48                .89            1.49                           
+01/15/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      374               .97                 .88            .99                            
+01/15/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      283               1.50                .89            1.99                           
+01/15/2021     ALASKA              FRUITS         TANGELOS                                                    per pound      8                 1.47                1.29           1.49                           
+01/22/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       255               3.86                                                              
+01/22/2021     NATIONAL            FRUITS         TANGELOS                                                    each           552               1.23                                                              
+01/22/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      597               1.34                                                              
+01/22/2021     NATIONAL            FRUITS         TANGELOS                      Y                             per pound      759               1.93                                                              
+01/22/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       199               3.99                3.99           3.99                           
+01/22/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           78                1.21                .67            1.25                           
+01/22/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      15                1.49                1.49           1.49                           
+01/22/2021     NORTHEAST U.S.      FRUITS         TANGELOS                      Y                             per pound      80                1.99                1.99           1.99                           
+01/22/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       33                3.16                2.99           3.49                           
+01/22/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           463               1.24                .99            1.25                           
+01/22/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       23                3.74                3.49           3.99                           
+01/22/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           5                 1.00                1.00           1.00                           
+01/22/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      192               1.58                1.58           1.58                           
+01/22/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           6                 .98                 .98            .98                            
+01/22/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      212               1.51                1.49           1.58                           
+01/22/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      124               .72                 .49            1.99                           
+01/22/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                      Y                             per pound      658               1.92                .99            1.99                           
+01/22/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      54                1.26                .97            1.99                           
+01/22/2021     NORTHWEST U.S.      FRUITS         TANGELOS                      Y                             per pound      21                1.99                1.99           1.99                           
+01/29/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,740             3.27                                                              
+01/29/2021     NATIONAL            FRUITS         TANGELOS                                                    each           409               .90                                                               
+01/29/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      621               1.30                                                              
+01/29/2021     NATIONAL            FRUITS         TANGELOS                      Y                             each           13                1.00                                                              
+01/29/2021     NATIONAL            FRUITS         TANGELOS                      Y                             per pound      59                1.67                                                              
+01/29/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       160               3.87                2.99           5.99                           
+01/29/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           237               .98                 .40            1.00                           
+01/29/2021     NORTHEAST U.S.      FRUITS         TANGELOS                      Y                             per pound      40                1.99                1.99           1.99                           
+01/29/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       863               3.61                2.49           4.99                           
+01/29/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           14                1.00                1.00           1.00                           
+01/29/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       202               2.37                1.99           3.49                           
+01/29/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           133               .78                 .60            1.00                           
+01/29/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      41                1.47                1.29           1.69                           
+01/29/2021     MIDWEST U.S.        FRUITS         TANGELOS                      Y                             each           13                1.00                1.00           1.00                           
+01/29/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       209               2.94                2.77           3.29                           
+01/29/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           25                .78                 .78            .78                            
+01/29/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      350               .99                 .89            1.69                           
+01/29/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       225               2.77                2.77           2.77                           
+01/29/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      168               1.74                .25            3.49                           
+01/29/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       81                2.95                2.77           2.99                           
+01/29/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      62                1.77                .99            1.99                           
+01/29/2021     NORTHWEST U.S.      FRUITS         TANGELOS                      Y                             per pound      19                .99                 .99            .99                            
+02/05/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,889             3.21                                                              
+02/05/2021     NATIONAL            FRUITS         TANGELOS                                                    each           1,274             .87                                                               
+02/05/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      754               1.13                                                              
+02/05/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       245               4.21                3.99           4.99                           
+02/05/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           97                .97                 .67            1.00                           
+02/05/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      16                1.99                1.99           1.99                           
+02/05/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       404               3.01                2.99           3.98                           
+02/05/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           396               .99                 .99            .99                            
+02/05/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      67                .99                 .99            .99                            
+02/05/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       630               3.02                2.99           3.99                           
+02/05/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           670               .77                 .67            .99                            
+02/05/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      79                1.80                .79            2.99                           
+02/05/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       293               3.01                2.99           3.48                           
+02/05/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           111               .99                 .99            .99                            
+02/05/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      196               1.37                .99            1.49                           
+02/05/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       225               2.99                2.99           2.99                           
+02/05/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      368               .85                 .49            .99                            
+02/05/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       81                3.78                2.99           3.99                           
+02/05/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      17                1.05                .99            1.49                           
+02/05/2021     ALASKA              FRUITS         TANGELOS                                                    3 lb bag       11                3.99                3.99           3.99                           
+02/05/2021     ALASKA              FRUITS         TANGELOS                                                    per pound      11                1.49                1.49           1.49                           
+02/12/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,532             4.00                                                              
+02/12/2021     NATIONAL            FRUITS         TANGELOS                                                    each           707               .91                                                               
+02/12/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      1,107             1.34                                                              
+02/12/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       326               3.96                2.99           4.99                           
+02/12/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           345               1.01                .40            1.25                           
+02/12/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      77                3.33                1.69           3.49                           
+02/12/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       1,179             4.02                3.98           4.99                           
+02/12/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           235               .81                 .80            1.00                           
+02/12/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      31                .98                 .98            .98                            
+02/12/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       16                3.68                3.50           3.99                           
+02/12/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           116               .79                 .79            .79                            
+02/12/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      192               1.68                1.68           1.68                           
+02/12/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       11                3.89                3.89           3.89                           
+02/12/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           11                .89                 .89            .89                            
+02/12/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      464               1.03                .97            1.68                           
+02/12/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      185               1.10                .98            1.99                           
+02/12/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      158               1.18                .99            1.99                           
+02/19/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,327             3.94                                                              
+02/19/2021     NATIONAL            FRUITS         TANGELOS                                                    each           674               .87                                                               
+02/19/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      321               1.15                                                              
+02/19/2021     NATIONAL            FRUITS         TANGELOS                      Y                             each           25                1.00                                                              
+02/19/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       270               3.75                2.99           3.99                           
+02/19/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           299               .96                 .67            1.25                           
+02/19/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                .99                 .99            .99                            
+02/19/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       1,050             3.99                3.99           3.99                           
+02/19/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           253               .82                 .78            1.00                           
+02/19/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       7                 3.49                3.49           3.49                           
+02/19/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           122               .78                 .58            .79                            
+02/19/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      177               1.12                .98            1.29                           
+02/19/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                      Y                             each           25                1.00                1.00           1.00                           
+02/19/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      67                .83                 .50            1.99                           
+02/19/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      67                1.59                .99            1.99                           
+02/26/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       153               3.78                                                              
+02/26/2021     NATIONAL            FRUITS         TANGELOS                                                    each           308               .97                                                               
+02/26/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      528               .87                                                               
+02/26/2021     NATIONAL            FRUITS         TANGELOS                      Y                             per pound      6                 1.48                                                              
+02/26/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       8                 3.99                3.99           3.99                           
+02/26/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           274               .97                 .80            1.00                           
+02/26/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       76                3.99                3.98           3.99                           
+02/26/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           10                .79                 .79            .79                            
+02/26/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       42                3.23                2.50           3.99                           
+02/26/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           24                1.00                1.00           1.00                           
+02/26/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      21                .86                 .79            .99                            
+02/26/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       27                3.99                3.99           3.99                           
+02/26/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      105               1.00                .98            1.29                           
+02/26/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                      Y                             per pound      6                 1.48                1.48           1.48                           
+02/26/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      175               .73                 .44            1.79                           
+02/26/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      227               .92                 .88            1.49                           
+03/05/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,787             3.87                                                              
+03/05/2021     NATIONAL            FRUITS         TANGELOS                                                    each           452               .88                                                               
+03/05/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      580               2.00                                                              
+03/05/2021     NATIONAL            FRUITS         TANGELOS                      Y                             per pound      19                .98                                                               
+03/05/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       497               3.78                3.50           3.99                           
+03/05/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           294               .95                 .40            1.00                           
+03/05/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      76                1.43                .67            1.49                           
+03/05/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       1,263             3.91                2.99           3.99                           
+03/05/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           15                1.00                1.00           1.00                           
+03/05/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       27                3.84                3.49           3.99                           
+03/05/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           108               .84                 .79            1.00                           
+03/05/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      206               1.53                .79            1.58                           
+03/05/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           35                .34                 .34            .34                            
+03/05/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      40                1.58                1.58           1.58                           
+03/05/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      103               .83                 .77            .88                            
+03/05/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      155               3.82                .99            3.99                           
+03/05/2021     NORTHWEST U.S.      FRUITS         TANGELOS                      Y                             per pound      19                .98                 .98            .98                            
+03/12/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       3,542             4.23                                                              
+03/12/2021     NATIONAL            FRUITS         TANGELOS                                                    each           465               .89                                                               
+03/12/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      77                .81                                                               
+03/12/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       418               4.20                3.50           4.99                           
+03/12/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           220               .97                 .67            1.00                           
+03/12/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+03/12/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       1,908             4.35                3.99           5.49                           
+03/12/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           245               .82                 .80            1.00                           
+03/12/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       301               3.99                3.99           3.99                           
+03/12/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      4                 1.99                1.99           1.99                           
+03/12/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       356               4.20                3.99           5.49                           
+03/12/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       542               3.99                3.99           3.99                           
+03/12/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      63                .63                 .50            1.00                           
+03/12/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       17                3.99                3.99           3.99                           
+03/19/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       270               4.93                                                              
+03/19/2021     NATIONAL            FRUITS         TANGELOS                                                    each           606               .88                                                               
+03/19/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      354               .96                                                               
+03/19/2021     NATIONAL            FRUITS         TANGELOS                      Y                             per pound      212               1.49                                                              
+03/19/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       215               4.99                4.99           4.99                           
+03/19/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           344               .96                 .79            1.00                           
+03/19/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       29                4.99                4.99           4.99                           
+03/19/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           245               .82                 .80            1.00                           
+03/19/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      25                1.04                .79            1.99                           
+03/19/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           17                .34                 .34            .34                            
+03/19/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      105               .98                 .98            .99                            
+03/19/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                      Y                             per pound      6                 1.49                1.49           1.49                           
+03/19/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      219               .94                 .77            .99                            
+03/19/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       15                3.99                3.99           3.99                           
+03/19/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      5                 .99                 .99            .99                            
+03/19/2021     NORTHWEST U.S.      FRUITS         TANGELOS                      Y                             per pound      206               1.49                1.49           1.49                           
+03/19/2021     ALASKA              FRUITS         TANGELOS                                                    3 lb bag       11                4.99                4.99           4.99                           
+03/26/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       876               5.10                                                              
+03/26/2021     NATIONAL            FRUITS         TANGELOS                                                    each           722               .90                                                               
+03/26/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      436               1.40                                                              
+03/26/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       215               4.87                3.99           4.99                           
+03/26/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           221               .98                 .80            1.00                           
+03/26/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+03/26/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       467               5.48                4.99           5.49                           
+03/26/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           244               .82                 .80            1.00                           
+03/26/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       13                3.99                3.99           3.99                           
+03/26/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           250               .91                 .75            1.00                           
+03/26/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      211               1.63                .79            1.99                           
+03/26/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       49                5.49                5.49           5.49                           
+03/26/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           7                 .69                 .69            .69                            
+03/26/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      139               1.18                .98            1.68                           
+03/26/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      73                1.16                .98            1.79                           
+03/26/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       121               3.99                3.99           3.99                           
+03/26/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      3                 .99                 .99            .99                            
+03/26/2021     ALASKA              FRUITS         TANGELOS                                                    3 lb bag       11                4.99                4.99           4.99                           
+04/02/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       256               4.92                                                              
+04/02/2021     NATIONAL            FRUITS         TANGELOS                                                    each           217               .94                                                               
+04/02/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      97                1.03                                                              
+04/02/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       190               4.99                4.99           4.99                           
+04/02/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           190               1.00                1.00           1.00                           
+04/02/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       42                4.88                4.88           4.88                           
+04/02/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           10                .89                 .89            .89                            
+04/02/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      31                1.25                1.25           1.25                           
+04/02/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       10                4.00                4.00           4.00                           
+04/02/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           17                .34                 .34            .34                            
+04/02/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      57                .86                 .33            .97                            
+04/02/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      9                 1.39                1.39           1.39                           
+04/02/2021     ALASKA              FRUITS         TANGELOS                                                    3 lb bag       14                4.77                3.98           4.99                           
+04/09/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,977             3.87                                                              
+04/09/2021     NATIONAL            FRUITS         TANGELOS                                                    each           90                .84                                                               
+04/09/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      503               1.18                                                              
+04/09/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       21                3.99                3.99           3.99                           
+04/09/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           10                1.25                1.25           1.25                           
+04/09/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       404               4.07                3.99           4.99                           
+04/09/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      31                1.00                1.00           1.00                           
+04/09/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       589               3.99                3.99           3.99                           
+04/09/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           80                .79                 .79            .79                            
+04/09/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      14                .69                 .69            .69                            
+04/09/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       283               3.91                2.99           3.99                           
+04/09/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      344               1.29                .99            1.31                           
+04/09/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       542               3.57                2.99           3.99                           
+04/09/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      90                .93                 .88            .99                            
+04/09/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       138               3.88                2.99           3.99                           
+04/09/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      24                .95                 .69            1.29                           
+04/16/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       2,450             4.38                                                              
+04/16/2021     NATIONAL            FRUITS         TANGELOS                                                    each           25                .39                                                               
+04/16/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      84                1.27                                                              
+04/16/2021     NATIONAL            FRUITS         TANGELOS                      Y                             per pound      6                 1.48                                                              
+04/16/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       1,600             4.70                3.99           4.99                           
+04/16/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           8                 .50                 .50            .50                            
+04/16/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       194               3.33                2.99           3.99                           
+04/16/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       415               3.86                3.49           3.99                           
+04/16/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           17                .34                 .34            .34                            
+04/16/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      40                1.77                1.77           1.77                           
+04/16/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                      Y                             per pound      6                 1.48                1.48           1.48                           
+04/16/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       225               3.99                3.99           3.99                           
+04/16/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      43                .79                 .20            .89                            
+04/16/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       2                 3.99                3.99           3.99                           
+04/16/2021     ALASKA              FRUITS         TANGELOS                                                    3 lb bag       14                3.88                3.48           3.99                           
+04/16/2021     ALASKA              FRUITS         TANGELOS                                                    per pound      1                 1.49                1.49           1.49                           
+04/23/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,919             3.38                                                              
+04/23/2021     NATIONAL            FRUITS         TANGELOS                                                    each           13                1.25                                                              
+04/23/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      110               1.25                                                              
+04/23/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           13                1.25                1.25           1.25                           
+04/23/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       473               3.01                2.99           3.98                           
+04/23/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       815               3.78                2.99           3.99                           
+04/23/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      8                 1.00                1.00           1.00                           
+04/23/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    3 lb bag       389               3.24                2.99           4.99                           
+04/23/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      94                1.29                1.29           1.29                           
+04/23/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       225               2.99                2.99           2.99                           
+04/23/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    3 lb bag       17                2.99                2.99           2.99                           
+04/23/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      8                 .98                 .98            .98                            
+04/30/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       1,201             4.94                                                              
+04/30/2021     NATIONAL            FRUITS         TANGELOS                                                    each           12                .50                                                               
+04/30/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      5                 .99                                                               
+04/30/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       8                 3.99                3.99           3.99                           
+04/30/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       1,135             4.99                4.99           4.99                           
+04/30/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      5                 .99                 .99            .99                            
+04/30/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    3 lb bag       58                3.99                3.99           3.99                           
+04/30/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           12                .50                 .50            .50                            
+05/07/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      1                 1.59                                                              
+05/07/2021     ALASKA              FRUITS         TANGELOS                                                    per pound      1                 1.59                1.59           1.59                           
+05/14/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      12                .99                                                               
+05/14/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      12                .99                 .99            .99                            
+07/16/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      5                 1.19                                                              
+07/16/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      5                 1.19                1.19           1.19                           
+07/23/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      331               .78                                                               
+07/23/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      6                 1.49                1.49           1.49                           
+07/23/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      325               .77                 .77            .77                            
+07/30/2021     NATIONAL            FRUITS         TANGELOS                                                    each           24                1.50                                                              
+07/30/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      57                .67                                                               
+07/30/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           24                1.50                1.50           1.50                           
+07/30/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+07/30/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      47                .50                 .50            .50                            
+08/06/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      94                1.04                                                              
+08/06/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+08/06/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      12                .99                 .99            .99                            
+08/06/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      72                .99                 .99            .99                            
+08/13/2021     NATIONAL            FRUITS         TANGELOS                                                    each           6                 .75                                                               
+08/13/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      1,193             1.28                                                              
+08/13/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           6                 .75                 .75            .75                            
+08/13/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+08/13/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      1,135             1.29                1.29           1.29                           
+08/13/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      45                .99                 .99            .99                            
+08/13/2021     ALASKA              FRUITS         TANGELOS                                                    per pound      3                 1.98                1.98           1.98                           
+08/20/2021     NATIONAL            FRUITS         TANGELOS                                                    each           33                .86                                                               
+08/20/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      1,201             1.52                                                              
+08/20/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           33                .86                 .50            1.00                           
+08/20/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                .99                 .99            .99                            
+08/20/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      1,135             1.49                1.49           1.49                           
+08/20/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      13                .88                 .88            .88                            
+08/20/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      15                2.69                2.69           2.69                           
+08/20/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      28                2.69                2.69           2.69                           
+08/27/2021     NATIONAL            FRUITS         TANGELOS                                                    each           55                .82                                                               
+08/27/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      88                1.06                                                              
+08/27/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           55                .82                 .50            1.00                           
+08/27/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      41                1.14                .99            1.49                           
+08/27/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      36                .99                 .99            .99                            
+08/27/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      11                .96                 .88            1.19                           
+09/03/2021     NATIONAL            FRUITS         TANGELOS                                                    each           102               .97                                                               
+09/03/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      61                2.55                                                              
+09/03/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           51                .94                 .50            1.25                           
+09/03/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+09/03/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           2                 1.00                1.00           1.00                           
+09/03/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    each           49                1.00                1.00           1.00                           
+09/03/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      23                2.72                2.59           2.79                           
+09/03/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      28                2.79                2.79           2.79                           
+09/10/2021     NATIONAL            FRUITS         TANGELOS                                                    each           121               .92                                                               
+09/10/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      223               1.06                                                              
+09/10/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           94                .89                 .50            1.00                           
+09/10/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+09/10/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           14                1.00                1.00           1.00                           
+09/10/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           13                1.00                1.00           1.00                           
+09/10/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      23                .99                 .99            .99                            
+09/10/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      19                1.50                1.50           1.50                           
+09/10/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      171               .99                 .99            .99                            
+09/17/2021     NATIONAL            FRUITS         TANGELOS                                                    3 lb bag       24                2.99                                                              
+09/17/2021     NATIONAL            FRUITS         TANGELOS                                                    each           24                .50                                                               
+09/17/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      225               1.24                                                              
+09/17/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    3 lb bag       24                2.99                2.99           2.99                           
+09/17/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           15                .60                 .50            .75                            
+09/17/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+09/17/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    each           9                 .33                 .33            .33                            
+09/17/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      58                .93                 .68            .99                            
+09/17/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      99                1.48                1.48           1.48                           
+09/17/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      58                1.09                .79            2.99                           
+09/24/2021     NATIONAL            FRUITS         TANGELOS                                                    each           41                1.39                                                              
+09/24/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      739               1.57                                                              
+09/24/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           41                1.39                1.00           2.00                           
+09/24/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+09/24/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      19                1.49                1.49           1.49                           
+09/24/2021     SOUTH CENTRAL U.S.  FRUITS         TANGELOS                                                    per pound      372               1.49                1.47           1.49                           
+09/24/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      274               1.49                1.49           1.49                           
+09/24/2021     NORTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      64                2.49                2.49           2.49                           
+10/01/2021     NATIONAL            FRUITS         TANGELOS                                                    each           48                .69                                                               
+10/01/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      10                1.49                                                              
+10/01/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           6                 .67                 .67            .67                            
+10/01/2021     SOUTHEAST U.S.      FRUITS         TANGELOS                                                    each           42                .69                 .69            .69                            
+10/01/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      10                1.49                1.49           1.49                           
+10/08/2021     NATIONAL            FRUITS         TANGELOS                                                    each           25                1.00                                                              
+10/08/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      26                .99                                                               
+10/08/2021     NORTHEAST U.S.      FRUITS         TANGELOS                                                    each           25                1.00                1.00           1.00                           
+10/08/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      22                .99                 .99            .99                            
+10/08/2021     SOUTHWEST U.S.      FRUITS         TANGELOS                                                    per pound      4                 .99                 .99            .99                            
+10/15/2021     NATIONAL            FRUITS         TANGELOS                                                    per pound      15                .99                                                               
+10/15/2021     MIDWEST U.S.        FRUITS         TANGELOS                                                    per pound      15                .99                 .99            .99                            
+
