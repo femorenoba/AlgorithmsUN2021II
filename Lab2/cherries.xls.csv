@@ -1,4 +1,4 @@
-Date;Region;Class;Commodity;Variety;Organic;Environment;Unit;Number of Stores;Weighted Avg Price;Low Price;High Price;% Marked Local
+﻿Date;Region;Class;Commodity;Variety;Organic;Environment;Unit;Number of Stores;Weighted Avg Price;Low Price;High Price;% Marked Local
 12/04/2020;NATIONAL;FRUITS;CHERRIES;RED VARIETIES;;;per pound;414;5.45;;;
 12/04/2020;NORTHEAST U.S.;FRUITS;CHERRIES;RED VARIETIES;;;per pound;293;5.33;4.99;7.99;
 12/04/2020;SOUTHEAST U.S.;FRUITS;CHERRIES;RED VARIETIES;;;per pound;78;4.99;4.99;4.99;
